@@ -1,6 +1,6 @@
 # 2A-experiment
 
-These are the code that I wrote in the college class in 2A.
+These are the code that I wrote in a college class in 2A.
 https://sites.google.com/site/isutbe2018/home
 
 
